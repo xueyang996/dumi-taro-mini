@@ -25,3 +25,6 @@ Build library via `father-build`,
 ```bash
 $ npm run build
 ```
+
+#### 预览地址
+https://xueyang996.github.io/dumi-taro-mini/
